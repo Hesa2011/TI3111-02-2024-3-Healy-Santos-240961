@@ -1,0 +1,9 @@
+mi_diccionario = {'a':'Mayo', 'b': 'hola', 'c': '2024'}
+print("Diccionario original:", mi_diccionario)
+
+elemento = mi_diccionario['b']
+print("Valor de 'b':", elemento)
+
+
+mi_diccionario['b'] = 'Hola'
+print("Diccionario modificado:", mi_diccionario)
