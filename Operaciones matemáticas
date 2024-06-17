@@ -1,0 +1,4 @@
+#sumar los elementos de la lista
+mi_listadenumeros = [1, 2024, 3, 20, 100]
+suma = sum(mi_listadenumeros)
+print(suma)
