@@ -1,0 +1,15 @@
+animales =["aguila","jirafa","tigre","gato","pantera","puma","cocodrilo"] 
+
+  
+
+print(animales) 
+
+  
+
+animales_filtrados = list(filter(lambda animal: "a" in animal, animales)) 
+
+  
+
+print(animales_filtrados) 
+
+ 
